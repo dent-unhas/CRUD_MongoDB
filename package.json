@@ -7,7 +7,7 @@
   },
   "main": "script.js",
   "scripts": {
-    "start": "nodemon app"
+    "start": "node app"
   },
   "keywords": [],
   "author": "",
